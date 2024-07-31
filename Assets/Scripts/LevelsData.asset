@@ -1,0 +1,345 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95d64a63c484f974085d81f97a34d155, type: 3}
+  m_Name: LevelsData
+  m_EditorClassIdentifier: 
+  levels_TLGRadventure:
+  - level_TLGRadventure: 1
+    spritesLevel_TLGRadventure:
+    - {fileID: 21300000, guid: d1878bfbeb1e2da4886f0bcb537b828d, type: 3}
+    - {fileID: 21300000, guid: 0c0389b1d400af5489a3a340731a985b, type: 3}
+    - {fileID: 21300000, guid: 0c0389b1d400af5489a3a340731a985b, type: 3}
+    - {fileID: 21300000, guid: af927f090b6887d4ba92d17b458155b2, type: 3}
+    - {fileID: 21300000, guid: b01ec28aa3b6ac04aa210347efc4b64d, type: 3}
+    - {fileID: 21300000, guid: d1878bfbeb1e2da4886f0bcb537b828d, type: 3}
+    - {fileID: 21300000, guid: 0c0389b1d400af5489a3a340731a985b, type: 3}
+    - {fileID: 21300000, guid: 54c98fc0f1a310d418d680364a6f84c7, type: 3}
+    - {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+    - {fileID: 21300000, guid: d1878bfbeb1e2da4886f0bcb537b828d, type: 3}
+    - {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+    - {fileID: 21300000, guid: af927f090b6887d4ba92d17b458155b2, type: 3}
+    - {fileID: 21300000, guid: 54c98fc0f1a310d418d680364a6f84c7, type: 3}
+    - {fileID: 21300000, guid: d1878bfbeb1e2da4886f0bcb537b828d, type: 3}
+    - {fileID: 21300000, guid: 0c0389b1d400af5489a3a340731a985b, type: 3}
+    - {fileID: 21300000, guid: af927f090b6887d4ba92d17b458155b2, type: 3}
+    - {fileID: 21300000, guid: d1878bfbeb1e2da4886f0bcb537b828d, type: 3}
+    - {fileID: 21300000, guid: b01ec28aa3b6ac04aa210347efc4b64d, type: 3}
+    - {fileID: 21300000, guid: af927f090b6887d4ba92d17b458155b2, type: 3}
+    - {fileID: 21300000, guid: b01ec28aa3b6ac04aa210347efc4b64d, type: 3}
+    - {fileID: 21300000, guid: 54c98fc0f1a310d418d680364a6f84c7, type: 3}
+    - {fileID: 21300000, guid: b01ec28aa3b6ac04aa210347efc4b64d, type: 3}
+    - {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+    - {fileID: 21300000, guid: b01ec28aa3b6ac04aa210347efc4b64d, type: 3}
+    - {fileID: 21300000, guid: af927f090b6887d4ba92d17b458155b2, type: 3}
+    - {fileID: 21300000, guid: 54c98fc0f1a310d418d680364a6f84c7, type: 3}
+    - {fileID: 21300000, guid: b01ec28aa3b6ac04aa210347efc4b64d, type: 3}
+    - {fileID: 21300000, guid: 0c0389b1d400af5489a3a340731a985b, type: 3}
+    - {fileID: 21300000, guid: 54c98fc0f1a310d418d680364a6f84c7, type: 3}
+    - {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+    - {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+    - {fileID: 21300000, guid: 54c98fc0f1a310d418d680364a6f84c7, type: 3}
+    - {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+    - {fileID: 21300000, guid: 0c0389b1d400af5489a3a340731a985b, type: 3}
+    - {fileID: 21300000, guid: af927f090b6887d4ba92d17b458155b2, type: 3}
+    - {fileID: 21300000, guid: d1878bfbeb1e2da4886f0bcb537b828d, type: 3}
+    - {fileID: 21300000, guid: af927f090b6887d4ba92d17b458155b2, type: 3}
+    - {fileID: 21300000, guid: b01ec28aa3b6ac04aa210347efc4b64d, type: 3}
+    - {fileID: 21300000, guid: 54c98fc0f1a310d418d680364a6f84c7, type: 3}
+    - {fileID: 21300000, guid: d1878bfbeb1e2da4886f0bcb537b828d, type: 3}
+    - {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+    - {fileID: 21300000, guid: 0c0389b1d400af5489a3a340731a985b, type: 3}
+    cellToReach_TLGRadventure:
+    - sprite_TLGRadventure: {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+      count_TLGRadventure: 2500
+  - level_TLGRadventure: 2
+    spritesLevel_TLGRadventure:
+    - {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+    - {fileID: 21300000, guid: af927f090b6887d4ba92d17b458155b2, type: 3}
+    - {fileID: 21300000, guid: 0c0389b1d400af5489a3a340731a985b, type: 3}
+    - {fileID: 21300000, guid: b01ec28aa3b6ac04aa210347efc4b64d, type: 3}
+    - {fileID: 21300000, guid: 0c0389b1d400af5489a3a340731a985b, type: 3}
+    - {fileID: 21300000, guid: af927f090b6887d4ba92d17b458155b2, type: 3}
+    - {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+    - {fileID: 21300000, guid: b01ec28aa3b6ac04aa210347efc4b64d, type: 3}
+    - {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+    - {fileID: 21300000, guid: 54c98fc0f1a310d418d680364a6f84c7, type: 3}
+    - {fileID: 21300000, guid: 0c0389b1d400af5489a3a340731a985b, type: 3}
+    - {fileID: 21300000, guid: d1878bfbeb1e2da4886f0bcb537b828d, type: 3}
+    - {fileID: 21300000, guid: 0c0389b1d400af5489a3a340731a985b, type: 3}
+    - {fileID: 21300000, guid: 54c98fc0f1a310d418d680364a6f84c7, type: 3}
+    - {fileID: 21300000, guid: 54c98fc0f1a310d418d680364a6f84c7, type: 3}
+    - {fileID: 21300000, guid: 54c98fc0f1a310d418d680364a6f84c7, type: 3}
+    - {fileID: 21300000, guid: b01ec28aa3b6ac04aa210347efc4b64d, type: 3}
+    - {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+    - {fileID: 21300000, guid: d1878bfbeb1e2da4886f0bcb537b828d, type: 3}
+    - {fileID: 21300000, guid: af927f090b6887d4ba92d17b458155b2, type: 3}
+    - {fileID: 21300000, guid: d1878bfbeb1e2da4886f0bcb537b828d, type: 3}
+    - {fileID: 21300000, guid: b01ec28aa3b6ac04aa210347efc4b64d, type: 3}
+    - {fileID: 21300000, guid: af927f090b6887d4ba92d17b458155b2, type: 3}
+    - {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+    - {fileID: 21300000, guid: 0c0389b1d400af5489a3a340731a985b, type: 3}
+    - {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+    - {fileID: 21300000, guid: b01ec28aa3b6ac04aa210347efc4b64d, type: 3}
+    - {fileID: 21300000, guid: b01ec28aa3b6ac04aa210347efc4b64d, type: 3}
+    - {fileID: 21300000, guid: b01ec28aa3b6ac04aa210347efc4b64d, type: 3}
+    - {fileID: 21300000, guid: d1878bfbeb1e2da4886f0bcb537b828d, type: 3}
+    - {fileID: 21300000, guid: 0c0389b1d400af5489a3a340731a985b, type: 3}
+    - {fileID: 21300000, guid: 0c0389b1d400af5489a3a340731a985b, type: 3}
+    - {fileID: 21300000, guid: 54c98fc0f1a310d418d680364a6f84c7, type: 3}
+    - {fileID: 21300000, guid: af927f090b6887d4ba92d17b458155b2, type: 3}
+    - {fileID: 21300000, guid: 54c98fc0f1a310d418d680364a6f84c7, type: 3}
+    - {fileID: 21300000, guid: d1878bfbeb1e2da4886f0bcb537b828d, type: 3}
+    - {fileID: 21300000, guid: 54c98fc0f1a310d418d680364a6f84c7, type: 3}
+    - {fileID: 21300000, guid: d1878bfbeb1e2da4886f0bcb537b828d, type: 3}
+    - {fileID: 21300000, guid: d1878bfbeb1e2da4886f0bcb537b828d, type: 3}
+    - {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+    - {fileID: 21300000, guid: af927f090b6887d4ba92d17b458155b2, type: 3}
+    - {fileID: 21300000, guid: af927f090b6887d4ba92d17b458155b2, type: 3}
+    cellToReach_TLGRadventure:
+    - sprite_TLGRadventure: {fileID: 21300000, guid: 54c98fc0f1a310d418d680364a6f84c7, type: 3}
+      count_TLGRadventure: 3000
+  - level_TLGRadventure: 3
+    spritesLevel_TLGRadventure:
+    - {fileID: 21300000, guid: 54c98fc0f1a310d418d680364a6f84c7, type: 3}
+    - {fileID: 21300000, guid: 0c0389b1d400af5489a3a340731a985b, type: 3}
+    - {fileID: 21300000, guid: b01ec28aa3b6ac04aa210347efc4b64d, type: 3}
+    - {fileID: 21300000, guid: d1878bfbeb1e2da4886f0bcb537b828d, type: 3}
+    - {fileID: 21300000, guid: b01ec28aa3b6ac04aa210347efc4b64d, type: 3}
+    - {fileID: 21300000, guid: af927f090b6887d4ba92d17b458155b2, type: 3}
+    - {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+    - {fileID: 21300000, guid: af927f090b6887d4ba92d17b458155b2, type: 3}
+    - {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+    - {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+    - {fileID: 21300000, guid: af927f090b6887d4ba92d17b458155b2, type: 3}
+    - {fileID: 21300000, guid: 54c98fc0f1a310d418d680364a6f84c7, type: 3}
+    - {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+    - {fileID: 21300000, guid: 54c98fc0f1a310d418d680364a6f84c7, type: 3}
+    - {fileID: 21300000, guid: d1878bfbeb1e2da4886f0bcb537b828d, type: 3}
+    - {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+    - {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+    - {fileID: 21300000, guid: 54c98fc0f1a310d418d680364a6f84c7, type: 3}
+    - {fileID: 21300000, guid: 0c0389b1d400af5489a3a340731a985b, type: 3}
+    - {fileID: 21300000, guid: d1878bfbeb1e2da4886f0bcb537b828d, type: 3}
+    - {fileID: 21300000, guid: d1878bfbeb1e2da4886f0bcb537b828d, type: 3}
+    - {fileID: 21300000, guid: d1878bfbeb1e2da4886f0bcb537b828d, type: 3}
+    - {fileID: 21300000, guid: af927f090b6887d4ba92d17b458155b2, type: 3}
+    - {fileID: 21300000, guid: b01ec28aa3b6ac04aa210347efc4b64d, type: 3}
+    - {fileID: 21300000, guid: af927f090b6887d4ba92d17b458155b2, type: 3}
+    - {fileID: 21300000, guid: 0c0389b1d400af5489a3a340731a985b, type: 3}
+    - {fileID: 21300000, guid: 0c0389b1d400af5489a3a340731a985b, type: 3}
+    - {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+    - {fileID: 21300000, guid: 0c0389b1d400af5489a3a340731a985b, type: 3}
+    - {fileID: 21300000, guid: 54c98fc0f1a310d418d680364a6f84c7, type: 3}
+    - {fileID: 21300000, guid: b01ec28aa3b6ac04aa210347efc4b64d, type: 3}
+    - {fileID: 21300000, guid: b01ec28aa3b6ac04aa210347efc4b64d, type: 3}
+    - {fileID: 21300000, guid: 54c98fc0f1a310d418d680364a6f84c7, type: 3}
+    - {fileID: 21300000, guid: 54c98fc0f1a310d418d680364a6f84c7, type: 3}
+    - {fileID: 21300000, guid: af927f090b6887d4ba92d17b458155b2, type: 3}
+    - {fileID: 21300000, guid: d1878bfbeb1e2da4886f0bcb537b828d, type: 3}
+    - {fileID: 21300000, guid: b01ec28aa3b6ac04aa210347efc4b64d, type: 3}
+    - {fileID: 21300000, guid: af927f090b6887d4ba92d17b458155b2, type: 3}
+    - {fileID: 21300000, guid: b01ec28aa3b6ac04aa210347efc4b64d, type: 3}
+    - {fileID: 21300000, guid: 0c0389b1d400af5489a3a340731a985b, type: 3}
+    - {fileID: 21300000, guid: d1878bfbeb1e2da4886f0bcb537b828d, type: 3}
+    - {fileID: 21300000, guid: 0c0389b1d400af5489a3a340731a985b, type: 3}
+    cellToReach_TLGRadventure:
+    - sprite_TLGRadventure: {fileID: 21300000, guid: b01ec28aa3b6ac04aa210347efc4b64d, type: 3}
+      count_TLGRadventure: 3500
+  - level_TLGRadventure: 4
+    spritesLevel_TLGRadventure:
+    - {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+    - {fileID: 21300000, guid: 0c0389b1d400af5489a3a340731a985b, type: 3}
+    - {fileID: 21300000, guid: 54c98fc0f1a310d418d680364a6f84c7, type: 3}
+    - {fileID: 21300000, guid: af927f090b6887d4ba92d17b458155b2, type: 3}
+    - {fileID: 21300000, guid: af927f090b6887d4ba92d17b458155b2, type: 3}
+    - {fileID: 21300000, guid: 54c98fc0f1a310d418d680364a6f84c7, type: 3}
+    - {fileID: 21300000, guid: d1878bfbeb1e2da4886f0bcb537b828d, type: 3}
+    - {fileID: 21300000, guid: b01ec28aa3b6ac04aa210347efc4b64d, type: 3}
+    - {fileID: 21300000, guid: b01ec28aa3b6ac04aa210347efc4b64d, type: 3}
+    - {fileID: 21300000, guid: 54c98fc0f1a310d418d680364a6f84c7, type: 3}
+    - {fileID: 21300000, guid: af927f090b6887d4ba92d17b458155b2, type: 3}
+    - {fileID: 21300000, guid: 54c98fc0f1a310d418d680364a6f84c7, type: 3}
+    - {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+    - {fileID: 21300000, guid: af927f090b6887d4ba92d17b458155b2, type: 3}
+    - {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+    - {fileID: 21300000, guid: d1878bfbeb1e2da4886f0bcb537b828d, type: 3}
+    - {fileID: 21300000, guid: 0c0389b1d400af5489a3a340731a985b, type: 3}
+    - {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+    - {fileID: 21300000, guid: b01ec28aa3b6ac04aa210347efc4b64d, type: 3}
+    - {fileID: 21300000, guid: 0c0389b1d400af5489a3a340731a985b, type: 3}
+    - {fileID: 21300000, guid: 0c0389b1d400af5489a3a340731a985b, type: 3}
+    - {fileID: 21300000, guid: d1878bfbeb1e2da4886f0bcb537b828d, type: 3}
+    - {fileID: 21300000, guid: b01ec28aa3b6ac04aa210347efc4b64d, type: 3}
+    - {fileID: 21300000, guid: d1878bfbeb1e2da4886f0bcb537b828d, type: 3}
+    - {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+    - {fileID: 21300000, guid: 0c0389b1d400af5489a3a340731a985b, type: 3}
+    - {fileID: 21300000, guid: 54c98fc0f1a310d418d680364a6f84c7, type: 3}
+    - {fileID: 21300000, guid: d1878bfbeb1e2da4886f0bcb537b828d, type: 3}
+    - {fileID: 21300000, guid: b01ec28aa3b6ac04aa210347efc4b64d, type: 3}
+    - {fileID: 21300000, guid: d1878bfbeb1e2da4886f0bcb537b828d, type: 3}
+    - {fileID: 21300000, guid: af927f090b6887d4ba92d17b458155b2, type: 3}
+    - {fileID: 21300000, guid: af927f090b6887d4ba92d17b458155b2, type: 3}
+    - {fileID: 21300000, guid: 54c98fc0f1a310d418d680364a6f84c7, type: 3}
+    - {fileID: 21300000, guid: b01ec28aa3b6ac04aa210347efc4b64d, type: 3}
+    - {fileID: 21300000, guid: b01ec28aa3b6ac04aa210347efc4b64d, type: 3}
+    - {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+    - {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+    - {fileID: 21300000, guid: 54c98fc0f1a310d418d680364a6f84c7, type: 3}
+    - {fileID: 21300000, guid: 0c0389b1d400af5489a3a340731a985b, type: 3}
+    - {fileID: 21300000, guid: d1878bfbeb1e2da4886f0bcb537b828d, type: 3}
+    - {fileID: 21300000, guid: 0c0389b1d400af5489a3a340731a985b, type: 3}
+    - {fileID: 21300000, guid: af927f090b6887d4ba92d17b458155b2, type: 3}
+    cellToReach_TLGRadventure:
+    - sprite_TLGRadventure: {fileID: 21300000, guid: d1878bfbeb1e2da4886f0bcb537b828d, type: 3}
+      count_TLGRadventure: 4000
+  - level_TLGRadventure: 5
+    spritesLevel_TLGRadventure:
+    - {fileID: 21300000, guid: 0c0389b1d400af5489a3a340731a985b, type: 3}
+    - {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+    - {fileID: 21300000, guid: b01ec28aa3b6ac04aa210347efc4b64d, type: 3}
+    - {fileID: 21300000, guid: d1878bfbeb1e2da4886f0bcb537b828d, type: 3}
+    - {fileID: 21300000, guid: af927f090b6887d4ba92d17b458155b2, type: 3}
+    - {fileID: 21300000, guid: d1878bfbeb1e2da4886f0bcb537b828d, type: 3}
+    - {fileID: 21300000, guid: b01ec28aa3b6ac04aa210347efc4b64d, type: 3}
+    - {fileID: 21300000, guid: b01ec28aa3b6ac04aa210347efc4b64d, type: 3}
+    - {fileID: 21300000, guid: b01ec28aa3b6ac04aa210347efc4b64d, type: 3}
+    - {fileID: 21300000, guid: af927f090b6887d4ba92d17b458155b2, type: 3}
+    - {fileID: 21300000, guid: af927f090b6887d4ba92d17b458155b2, type: 3}
+    - {fileID: 21300000, guid: 54c98fc0f1a310d418d680364a6f84c7, type: 3}
+    - {fileID: 21300000, guid: 0c0389b1d400af5489a3a340731a985b, type: 3}
+    - {fileID: 21300000, guid: af927f090b6887d4ba92d17b458155b2, type: 3}
+    - {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+    - {fileID: 21300000, guid: 54c98fc0f1a310d418d680364a6f84c7, type: 3}
+    - {fileID: 21300000, guid: 54c98fc0f1a310d418d680364a6f84c7, type: 3}
+    - {fileID: 21300000, guid: af927f090b6887d4ba92d17b458155b2, type: 3}
+    - {fileID: 21300000, guid: 0c0389b1d400af5489a3a340731a985b, type: 3}
+    - {fileID: 21300000, guid: b01ec28aa3b6ac04aa210347efc4b64d, type: 3}
+    - {fileID: 21300000, guid: 0c0389b1d400af5489a3a340731a985b, type: 3}
+    - {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+    - {fileID: 21300000, guid: 54c98fc0f1a310d418d680364a6f84c7, type: 3}
+    - {fileID: 21300000, guid: 54c98fc0f1a310d418d680364a6f84c7, type: 3}
+    - {fileID: 21300000, guid: d1878bfbeb1e2da4886f0bcb537b828d, type: 3}
+    - {fileID: 21300000, guid: d1878bfbeb1e2da4886f0bcb537b828d, type: 3}
+    - {fileID: 21300000, guid: 0c0389b1d400af5489a3a340731a985b, type: 3}
+    - {fileID: 21300000, guid: af927f090b6887d4ba92d17b458155b2, type: 3}
+    - {fileID: 21300000, guid: d1878bfbeb1e2da4886f0bcb537b828d, type: 3}
+    - {fileID: 21300000, guid: b01ec28aa3b6ac04aa210347efc4b64d, type: 3}
+    - {fileID: 21300000, guid: 0c0389b1d400af5489a3a340731a985b, type: 3}
+    - {fileID: 21300000, guid: d1878bfbeb1e2da4886f0bcb537b828d, type: 3}
+    - {fileID: 21300000, guid: b01ec28aa3b6ac04aa210347efc4b64d, type: 3}
+    - {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+    - {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+    - {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+    - {fileID: 21300000, guid: af927f090b6887d4ba92d17b458155b2, type: 3}
+    - {fileID: 21300000, guid: 54c98fc0f1a310d418d680364a6f84c7, type: 3}
+    - {fileID: 21300000, guid: 0c0389b1d400af5489a3a340731a985b, type: 3}
+    - {fileID: 21300000, guid: d1878bfbeb1e2da4886f0bcb537b828d, type: 3}
+    - {fileID: 21300000, guid: 54c98fc0f1a310d418d680364a6f84c7, type: 3}
+    - {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+    cellToReach_TLGRadventure:
+    - sprite_TLGRadventure: {fileID: 21300000, guid: 0c0389b1d400af5489a3a340731a985b, type: 3}
+      count_TLGRadventure: 4500
+  - level_TLGRadventure: 6
+    spritesLevel_TLGRadventure:
+    - {fileID: 21300000, guid: d1878bfbeb1e2da4886f0bcb537b828d, type: 3}
+    - {fileID: 21300000, guid: 0c0389b1d400af5489a3a340731a985b, type: 3}
+    - {fileID: 21300000, guid: af927f090b6887d4ba92d17b458155b2, type: 3}
+    - {fileID: 21300000, guid: d1878bfbeb1e2da4886f0bcb537b828d, type: 3}
+    - {fileID: 21300000, guid: af927f090b6887d4ba92d17b458155b2, type: 3}
+    - {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+    - {fileID: 21300000, guid: af927f090b6887d4ba92d17b458155b2, type: 3}
+    - {fileID: 21300000, guid: 0c0389b1d400af5489a3a340731a985b, type: 3}
+    - {fileID: 21300000, guid: d1878bfbeb1e2da4886f0bcb537b828d, type: 3}
+    - {fileID: 21300000, guid: 0c0389b1d400af5489a3a340731a985b, type: 3}
+    - {fileID: 21300000, guid: af927f090b6887d4ba92d17b458155b2, type: 3}
+    - {fileID: 21300000, guid: b01ec28aa3b6ac04aa210347efc4b64d, type: 3}
+    - {fileID: 21300000, guid: 0c0389b1d400af5489a3a340731a985b, type: 3}
+    - {fileID: 21300000, guid: af927f090b6887d4ba92d17b458155b2, type: 3}
+    - {fileID: 21300000, guid: d1878bfbeb1e2da4886f0bcb537b828d, type: 3}
+    - {fileID: 21300000, guid: b01ec28aa3b6ac04aa210347efc4b64d, type: 3}
+    - {fileID: 21300000, guid: af927f090b6887d4ba92d17b458155b2, type: 3}
+    - {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+    - {fileID: 21300000, guid: b01ec28aa3b6ac04aa210347efc4b64d, type: 3}
+    - {fileID: 21300000, guid: d1878bfbeb1e2da4886f0bcb537b828d, type: 3}
+    - {fileID: 21300000, guid: 54c98fc0f1a310d418d680364a6f84c7, type: 3}
+    - {fileID: 21300000, guid: b01ec28aa3b6ac04aa210347efc4b64d, type: 3}
+    - {fileID: 21300000, guid: 54c98fc0f1a310d418d680364a6f84c7, type: 3}
+    - {fileID: 21300000, guid: b01ec28aa3b6ac04aa210347efc4b64d, type: 3}
+    - {fileID: 21300000, guid: 0c0389b1d400af5489a3a340731a985b, type: 3}
+    - {fileID: 21300000, guid: 54c98fc0f1a310d418d680364a6f84c7, type: 3}
+    - {fileID: 21300000, guid: 0c0389b1d400af5489a3a340731a985b, type: 3}
+    - {fileID: 21300000, guid: 54c98fc0f1a310d418d680364a6f84c7, type: 3}
+    - {fileID: 21300000, guid: d1878bfbeb1e2da4886f0bcb537b828d, type: 3}
+    - {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+    - {fileID: 21300000, guid: 54c98fc0f1a310d418d680364a6f84c7, type: 3}
+    - {fileID: 21300000, guid: 54c98fc0f1a310d418d680364a6f84c7, type: 3}
+    - {fileID: 21300000, guid: 54c98fc0f1a310d418d680364a6f84c7, type: 3}
+    - {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+    - {fileID: 21300000, guid: b01ec28aa3b6ac04aa210347efc4b64d, type: 3}
+    - {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+    - {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+    - {fileID: 21300000, guid: af927f090b6887d4ba92d17b458155b2, type: 3}
+    - {fileID: 21300000, guid: 0c0389b1d400af5489a3a340731a985b, type: 3}
+    - {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+    - {fileID: 21300000, guid: d1878bfbeb1e2da4886f0bcb537b828d, type: 3}
+    - {fileID: 21300000, guid: b01ec28aa3b6ac04aa210347efc4b64d, type: 3}
+    cellToReach_TLGRadventure:
+    - sprite_TLGRadventure: {fileID: 21300000, guid: af927f090b6887d4ba92d17b458155b2, type: 3}
+      count_TLGRadventure: 5000
+  - level_TLGRadventure: 7
+    spritesLevel_TLGRadventure:
+    - {fileID: 21300000, guid: af927f090b6887d4ba92d17b458155b2, type: 3}
+    - {fileID: 21300000, guid: af927f090b6887d4ba92d17b458155b2, type: 3}
+    - {fileID: 21300000, guid: d1878bfbeb1e2da4886f0bcb537b828d, type: 3}
+    - {fileID: 21300000, guid: d1878bfbeb1e2da4886f0bcb537b828d, type: 3}
+    - {fileID: 21300000, guid: 0c0389b1d400af5489a3a340731a985b, type: 3}
+    - {fileID: 21300000, guid: 54c98fc0f1a310d418d680364a6f84c7, type: 3}
+    - {fileID: 21300000, guid: 54c98fc0f1a310d418d680364a6f84c7, type: 3}
+    - {fileID: 21300000, guid: af927f090b6887d4ba92d17b458155b2, type: 3}
+    - {fileID: 21300000, guid: d1878bfbeb1e2da4886f0bcb537b828d, type: 3}
+    - {fileID: 21300000, guid: b01ec28aa3b6ac04aa210347efc4b64d, type: 3}
+    - {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+    - {fileID: 21300000, guid: d1878bfbeb1e2da4886f0bcb537b828d, type: 3}
+    - {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+    - {fileID: 21300000, guid: 54c98fc0f1a310d418d680364a6f84c7, type: 3}
+    - {fileID: 21300000, guid: af927f090b6887d4ba92d17b458155b2, type: 3}
+    - {fileID: 21300000, guid: 54c98fc0f1a310d418d680364a6f84c7, type: 3}
+    - {fileID: 21300000, guid: d1878bfbeb1e2da4886f0bcb537b828d, type: 3}
+    - {fileID: 21300000, guid: 54c98fc0f1a310d418d680364a6f84c7, type: 3}
+    - {fileID: 21300000, guid: 0c0389b1d400af5489a3a340731a985b, type: 3}
+    - {fileID: 21300000, guid: d1878bfbeb1e2da4886f0bcb537b828d, type: 3}
+    - {fileID: 21300000, guid: b01ec28aa3b6ac04aa210347efc4b64d, type: 3}
+    - {fileID: 21300000, guid: 54c98fc0f1a310d418d680364a6f84c7, type: 3}
+    - {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+    - {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+    - {fileID: 21300000, guid: af927f090b6887d4ba92d17b458155b2, type: 3}
+    - {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+    - {fileID: 21300000, guid: b01ec28aa3b6ac04aa210347efc4b64d, type: 3}
+    - {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+    - {fileID: 21300000, guid: 0c0389b1d400af5489a3a340731a985b, type: 3}
+    - {fileID: 21300000, guid: b01ec28aa3b6ac04aa210347efc4b64d, type: 3}
+    - {fileID: 21300000, guid: b01ec28aa3b6ac04aa210347efc4b64d, type: 3}
+    - {fileID: 21300000, guid: 54c98fc0f1a310d418d680364a6f84c7, type: 3}
+    - {fileID: 21300000, guid: b01ec28aa3b6ac04aa210347efc4b64d, type: 3}
+    - {fileID: 21300000, guid: af927f090b6887d4ba92d17b458155b2, type: 3}
+    - {fileID: 21300000, guid: 0c0389b1d400af5489a3a340731a985b, type: 3}
+    - {fileID: 21300000, guid: af927f090b6887d4ba92d17b458155b2, type: 3}
+    - {fileID: 21300000, guid: 0c0389b1d400af5489a3a340731a985b, type: 3}
+    - {fileID: 21300000, guid: 0c0389b1d400af5489a3a340731a985b, type: 3}
+    - {fileID: 21300000, guid: b01ec28aa3b6ac04aa210347efc4b64d, type: 3}
+    - {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+    - {fileID: 21300000, guid: 0c0389b1d400af5489a3a340731a985b, type: 3}
+    - {fileID: 21300000, guid: d1878bfbeb1e2da4886f0bcb537b828d, type: 3}
+    cellToReach_TLGRadventure:
+    - sprite_TLGRadventure: {fileID: 21300000, guid: bd899cd37eac6b64182e199cbf1f3ed5, type: 3}
+      count_TLGRadventure: 5500
+  index_to_randomize: 6
